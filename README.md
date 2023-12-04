@@ -1,18 +1,18 @@
-# Hi there 👋😊
+# Hi there 👋🏽😊
 
-## About me
+## About me 🙋🏽‍♂️
 ⌛
 
-## Projects in progress
+## Projects in progress ⏳
 ⌛
 
 ## Technologies I enjoy 🤩
 ⌛
 
-## Contributions
+## Contributions 🤝
 ⌛
 
-## Contact
+## Contact 🌐
 - 📧 Email: nzuguemkevine@gmail.com
 - 💼 LinkedIn: [Kevin NZUGUEM][nzuguem-linkedln]
 - 🐦 X: [@nzuguemkevine][nzuguem-x]
